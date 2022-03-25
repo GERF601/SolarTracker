@@ -78,6 +78,11 @@ En cuanto al proyecto, incialmente decidimos crear el prototipo real y funcional
 
 ![image](https://user-images.githubusercontent.com/99029413/160123146-2b50d0f3-b879-4a31-808c-326f861eed5d.png)
 
+- **Plataforma Arduino**
+
+![image](https://user-images.githubusercontent.com/99029413/160130503-489a243e-d008-4763-956a-435b2c654e6d.png)
+
+
 
 ### 5. Resultados
 - Primer paso: hacer una conexión entre resistencias (directamente), cada resistencia  va conectada a cada LDR (cada uno de estos a cada extremos del panel) y a estas mismas les añadimos cable para soldarlas al arduino mas adelante
@@ -96,8 +101,15 @@ En cuanto al proyecto, incialmente decidimos crear el prototipo real y funcional
 
 ![image](https://user-images.githubusercontent.com/99029413/160126275-d924fbbf-b478-445c-bf5c-cf9d22c5021d.png)
 
-- Resultado final:
+- Quinto paso: Programar el arduino 
 
+![image](https://user-images.githubusercontent.com/99029413/160129055-9926504b-1a86-42e2-a33b-06d19a7a2492.png)
 
+- Resultado final: por ultimo, conseguimos un panel solar inteligente que sigue la luz como podemos evidenciar en el video a continuación
+https://www.youtube.com/watch?v=teKma--8BxY&list=UUbvU-HwUegJeOpY7NBa4RnA&index=1
 
 ### 6. Conclusiones
+
+- El desarrollo de nuevas energías renovables y limpias es fundamental para hacer de nuestro mundo algo mejor.
+- En la programación de tarjetas arduino y creación de circuitos electrónicos es fundamental hacer simulaciones posteriores para hacer las cosas bien en un desarrollo definitivo.
+- Las competencias personales son fundamentales para el desarrollo de cualquier proyecto.
